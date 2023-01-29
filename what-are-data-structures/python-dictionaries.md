@@ -4,7 +4,7 @@ A dictionary is a built-in data type in Python that stores data in key-value pai
 
 #### Create a new dictionary
 
-We can create a python dictionary using the open and close curly brackets, with a `key value` combination representing each item in the dictionary. Here's an example of how you can create and use a dictionary in Python:
+We can create a python dictionary using the open and close curly brackets, with a `key, value` combination representing each item in the dictionary. Here's an example of how you can create and use a dictionary in Python:
 
 ```python
 dict = {

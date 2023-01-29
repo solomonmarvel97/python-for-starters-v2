@@ -66,7 +66,7 @@ print(unique_user)
 
 **Removing items using `.pop()`**
 
-n Python, the `set.pop()` method removes and returns an arbitrary element from the set. If the set is empty, it raises a `KeyError`.
+In Python, the `set.pop()` method removes and returns an arbitrary element from the set. If the set is empty, it raises a `KeyError`.
 
 This is an example:
 
