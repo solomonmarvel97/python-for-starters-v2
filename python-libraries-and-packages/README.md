@@ -23,7 +23,7 @@ You can use the search box to find a package. For example, you can use the `requ
 
 Many relevant packages will be displayed in the search results. You can get more information about each package by clicking the corresponding link.
 
-You can install the python _request_ library using the command globally or in a virtual environment using the command bellow:
+You can install the python _request_ library using the `pip` command globally or in a virtual environment using the command below:
 
 ```bash
 pip install requests
