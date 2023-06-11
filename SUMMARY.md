@@ -3,7 +3,6 @@
 * [Content](README.md)
 * [Python for starters](python-for-starters.md)
 * [Foreword](foreword.md)
-* [Python for starters](python-for-starters-1.md)
 * [Introduction to python](introduction-to-python/README.md)
   * [Python Installation](introduction-to-python/python-installation.md)
   * [Variables](introduction-to-python/variables.md)

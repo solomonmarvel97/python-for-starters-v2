@@ -56,7 +56,7 @@ The reduce() function has the following syntax:
 reduce(function, iterable, initializer=None)
 ```
 
-The `reduce()` function is a function that takes in two arguments and returns a single value. The `iterable` is a `iterable` object, such as a list, tuple, or string. The `initializer` is an optional argument that specifies an initial value to be used in the reduction. If the `initializer` is not provided, the `reduce()` function will use the first element of the `iterable` as the initial value.
+The `reduce()` function is a function that takes in two arguments and returns a single value. The `'iterable'` is an `iterable` object, such as a list, tuple, or string. The `initializer` is an optional argument that specifies an initial value to be used in the reduction. If the `initializer` is not provided, the `reduce()` function will use the first element of the `iterable` as the initial value.
 
 This is an example of a list transformation using the `reduce()` function:
 
