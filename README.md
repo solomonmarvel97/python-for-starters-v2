@@ -6,7 +6,7 @@ description: >-
 
 # Python for starters
 
-<figure><img src=".gitbook/assets/5588532.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/5588532 (1).png" alt=""><figcaption></figcaption></figure>
 
 Written by [Marvelous Akporowho](https://solomonmarvel.com/) with contributions from the [Top Universe Community](https://topuniverse.org/)
 

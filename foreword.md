@@ -1,14 +1,20 @@
 # Foreword
 
-#### [About the author](broken-reference) <a href="#about-the-author" id="about-the-author"></a>
+<figure><img src=".gitbook/assets/5588532.png" alt=""><figcaption></figcaption></figure>
 
-Marvelous is a Senior Solutions Architect at Boltcliq with over 12 years of experience in IT, specializing in educational, health, and commerce applications. He is a technical content writer for Redis and a technical consultant who helps businesses create solutions utilizing his knowledge in software architecture, systems design, and distributed system design (microservices). Marvelous is also a co-founder and Lead Training Specialist of Top Universe, a global community dedicated to helping individuals get into tech. To learn more about his business endeavors, please visit his [website](https://solomonmarvel.com).
+#### About the author <a href="#about-the-author" id="about-the-author"></a>
 
-#### [Purpose of this book](broken-reference) <a href="#purpose-of-this-book" id="purpose-of-this-book"></a>
+I am a senior solutions architect at boltcliq with over 13 years of experience in IT, specialising in educational, health, and commerce applications.&#x20;
 
-The purpose of Python For Starters is to provide a comprehensive introduction to the Python programming language for people who are new to programming or who have little or no experience with Python. Python For Starters should serve as a beginner guide covering the basics of computer programming and build you up to more advanced concepts, using clear and concise explanations and examples that are easy to understand.
+I am a technical content writer for Redis and a technical consultant who helps businesses create solutions utilising his knowledge in software architecture, systems design, and distributed system design (microservices). I am also a co-founder and lead training specialist of [Top Universe](https://topuniverse.org/), a community dedicated to helping individuals get into tech. To learn more about his business endeavors.
 
-[**Some specific goals of Python for Starters include:**](broken-reference)
+#### Purpose of this book <a href="#purpose-of-this-book" id="purpose-of-this-book"></a>
+
+The purpose of python for starters is to provide a comprehensive introduction to the Python programming language for people who are new to programming or who have little or no experience with Python.&#x20;
+
+Python For Starters should serve as a beginner guide covering the basics of computer programming and build you up to more advanced concepts, using clear and concise explanations and examples that are easy to understand.
+
+**Some specific goals of Python for Starters include:**
 
 * Teaching the fundamentals of programming, such as variables, data types, loops, and control structures.
 * Introducing the Python syntax and the features of the language that are most commonly used.
