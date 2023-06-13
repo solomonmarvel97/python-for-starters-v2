@@ -1,6 +1,6 @@
-# Introduction to python
+# Introduction To Python
 
-<figure><img src="../.gitbook/assets/python.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 #### [What is the Python Programming Language?](broken-reference) <a href="#what-is-the-python-programming-language" id="what-is-the-python-programming-language"></a>
 
