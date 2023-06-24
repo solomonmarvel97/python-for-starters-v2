@@ -1,7 +1,5 @@
 # Python Data Types
 
-### Python For Starters
-
 #### [Data Types](broken-reference) <a href="#data-types" id="data-types"></a>
 
 For short, a data type describes a set of possible values and operations that can be performed on a variable

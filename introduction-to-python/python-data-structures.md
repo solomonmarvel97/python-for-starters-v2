@@ -1,7 +1,5 @@
 # Python Data Structures
 
-### Python For Starters
-
 [**Data Structures**](broken-reference)
 
 In computer science, a data structure is a way of organizing and storing data in a computer so that it can be accessed and modified efficiently. Python has a number of built-in data structures, which can be used to store and organize data efficiently.

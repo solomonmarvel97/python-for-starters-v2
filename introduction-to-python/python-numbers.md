@@ -1,7 +1,5 @@
 # Python numbers
 
-### Python For Starters
-
 #### [Numbers](broken-reference) <a href="#numbers" id="numbers"></a>
 
 Python has three built-in numeric data types: integers, floating-point numbers, and complex numbers. In this section, you'll learn about integers and floating-point numbers, which are the two most commonly used number types. You'll learn about complex numbers in a later section.

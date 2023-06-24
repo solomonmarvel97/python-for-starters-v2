@@ -1,7 +1,5 @@
 # Python constants
 
-### Python For Starters
-
 #### [Constants](broken-reference) <a href="#constants" id="constants"></a>
 
 In Python, a constant is a variable whose value remains unchanged throughout the program. Constants are usually defined in all capital letters so that they can be easily identified.

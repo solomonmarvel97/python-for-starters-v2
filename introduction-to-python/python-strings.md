@@ -1,7 +1,5 @@
 # Python strings
 
-### Python For Starters
-
 [**String**](broken-reference)
 
 A string is a collection of characters wrapped in a single or double quote. Like many other popular programming languages, strings in Python are arrays of bytes representing Unicode characters.

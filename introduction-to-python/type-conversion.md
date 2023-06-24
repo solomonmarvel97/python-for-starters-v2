@@ -1,7 +1,5 @@
 # Type Conversion
 
-### Python For Starters
-
 #### [Type Conversion](broken-reference) <a href="#type-conversion" id="type-conversion"></a>
 
 Type conversion is the process of converting a data type into another data type. Implicit type conversion is performed by a Python interpreter only. Explicit type conversion is performed by the user by explicitly using type conversion functions in the program code. Explicit type conversion is also known as typecasting
