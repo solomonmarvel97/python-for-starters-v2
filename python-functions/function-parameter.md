@@ -1,7 +1,5 @@
 # Function Parameter
 
-### Python For Starters
-
 ### [Function with parameter](broken-reference) <a href="#function-with-parameter" id="function-with-parameter"></a>
 
 In Python, a function parameter is a variable that is used to pass information into a function when it is called. When you define a function, you can specify the parameters that the function should accept as input. These parameters become variables that you can use within the function to perform your desired task.

@@ -1,7 +1,5 @@
 # Using Global Variables in Functions
 
-### Python For Starters
-
 ### [Python working with global variables](broken-reference) <a href="#python-working-with-global-variables" id="python-working-with-global-variables"></a>
 
 In Python, a global variable is a variable that is defined outside any function or class, and can be accessed from anywhere in the program. Global variables can be useful for storing values that need to be shared across different parts of your program.

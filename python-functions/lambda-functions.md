@@ -1,7 +1,5 @@
 # Lambda Functions
 
-### Python For Starters
-
 ### [Working with lambda functions](broken-reference) <a href="#working-with-lambda-functions" id="working-with-lambda-functions"></a>
 
 In Python, a lambda function is a small anonymous function. It can take any number of arguments, but can only have one expression. Lambda functions are useful when you need a simple function for a short period of time. They are not meant to be used as standalone functions and are not as flexible as regular functions.
