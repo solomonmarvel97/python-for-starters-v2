@@ -15,4 +15,4 @@ layout:
 
 # Overview
 
-<figure><img src=".gitbook/assets/Cover.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Cover (1).svg" alt=""><figcaption></figcaption></figure>
