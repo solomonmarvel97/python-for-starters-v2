@@ -1,7 +1,8 @@
 # Table of contents
 
-* [Python for starters](README.md)
-* [Content](<README (1).md>)
+* [Overview](README.md)
+* [Python for starters](<README (1).md>)
+* [Content](<README (1) (1).md>)
 * [Foreword](foreword.md)
 * [Introduction To Python](introduction-to-python/README.md)
   * [Python Installation](introduction-to-python/python-installation.md)
