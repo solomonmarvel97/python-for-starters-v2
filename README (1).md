@@ -1,7 +1,8 @@
 ---
 description: >-
-  To join us in creating several community translations, reach out to the admin
-  or moderators in the Top Universe community discord server
+  This book provides beginners with a comprehensive guide that helps them learn
+  the basics of the Python programming language and build a solid foundation for
+  further exploration and development.
 ---
 
 # Python for starters
