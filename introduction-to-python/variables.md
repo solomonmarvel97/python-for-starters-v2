@@ -1,7 +1,5 @@
 # Variables
 
-### Python For Starters
-
 #### [What are variables?](broken-reference) <a href="#what-are-variables" id="what-are-variables"></a>
 
 A variable in Python is a symbolic name that serves as a reference or pointer to an object. Once an object is assigned to a variable, it can be referred to by that name. However, the data is still contained within the object.
