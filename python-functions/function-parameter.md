@@ -7,12 +7,12 @@ In Python, a function parameter is a variable that is used to pass information i
 ```
 # This function should return the area of a circle when given the appropriate 
 
-# parameter Pi * r ** r
+# parameter Pi * r ** 2
 
 PI = 3.142 # a constant, meaning that you should not change it [but of course can be changed eventually]
 
 def area_of_a_circle(radius):
-    result = PI * radius ** radius
+    result = PI * radius ** 2
     return result
 
 area = area_of_a_circle(3)
@@ -31,7 +31,7 @@ To specify a default value for a function parameter, you can include an assignme
 ```
 PI = 3.142
 def area_of_a_circle(radius=2):
-    result = PI * radius ** radius
+    result = PI * radius ** 2
     return result
 
 area = area_of_a_circle()

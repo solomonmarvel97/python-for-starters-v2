@@ -17,7 +17,7 @@ def area_of_a_circle(r):
     """
     Function for computing the area of a circle
     """
-    area = PI * r ** r
+    area = PI * r ** 2
     return area
 
 ```

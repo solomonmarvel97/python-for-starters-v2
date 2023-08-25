@@ -2,11 +2,13 @@
 
 #### [Control Flow in Python](broken-reference) <a href="#control-flow-in-python" id="control-flow-in-python"></a>
 
-A program's control flow is the order in which the program's code executes. The control flow of a Python program is regulated by conditional statements, loops, and function calls. Python has three types of control structures: Sequential - default mode. Selection - used for decisions and branching.
+A program's control flow is the order in which the program's code executes. The control flow of a Python program is regulated by conditional statements, loops, and function calls.
+
+
 
 [**If statement in python**](broken-reference)
 
-Image result for if statement in python In a Python program, the if statement is how you perform this sort of decision-making. It allows for conditional execution of a statement or group of statements based on the value of an expression.
+In a Python program, the if statement is how you perform this sort of decision-making. It allows for conditional execution of a statement or group of statements based on the value of an expression.
 
 ```
 # example 1: Make a guess game
